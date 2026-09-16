@@ -1,2 +1,3 @@
-c = a+b
-adding the terms
+c = a-b
+subtracting
+ the terms
